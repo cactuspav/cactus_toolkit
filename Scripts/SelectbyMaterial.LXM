@@ -1,0 +1,5 @@
+#LXMacro#
+select.3DElementUnderMouse set
+select.typeFrom ptag;item;pivot;center;edge;polygon;vertex true
+select.3DElementUnderMouse set
+select.convert polygon

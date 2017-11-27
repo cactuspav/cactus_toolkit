@@ -1,0 +1,4 @@
+#LXMacro#
+select.typeFrom item;pivot;center;edge;polygon;vertex;ptag true
+unhide
+select.typeFrom polygon;edge;vertex;item;pivot;center;ptag true

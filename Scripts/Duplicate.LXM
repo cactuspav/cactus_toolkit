@@ -1,0 +1,6 @@
+#LXMacro#
+copy
+paste
+tool.set TransformMove on
+tool.noChange
+tool.doApply

@@ -1,0 +1,8 @@
+#LXMacro#
+select.typeFrom item;pivot;center;edge;polygon;vertex;ptag true
+tool.set TransformMoveItem on
+tool.noChange
+tool.doApply
+center.bbox bottom
+tool.noChange
+tool.doApply

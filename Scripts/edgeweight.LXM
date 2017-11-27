@@ -1,0 +1,7 @@
+#LXMacro#
+#AUTHOR: Seneca Menard
+#version 1.0
+#-EDGEWEIGHT:  same as usual only it auto-selects the subD weight first.  :)
+
+select.vertexMap "Subdivision" "subd" "replace"
+tool.set "vertMap.setWeight" "on"
